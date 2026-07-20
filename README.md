@@ -1,4 +1,5 @@
-# run-gemini-cli
+- name: Run Gemini CLI
+  uses: google-github-actions/run-gemini-cli@v0.1.22# run-gemini-cli
 
 ## Overview
 
